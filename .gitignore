@@ -1,0 +1,15 @@
+# Build artifacts
+btest
+fshow
+ishow
+*.o
+*.out
+*.log
+
+# Editor/OS files
+*~
+*.swp
+.DS_Store
+
+# Temporary files
+*.tmp
